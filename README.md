@@ -15,6 +15,8 @@ Someone deploys their first production app at 9:30 AM.
 And by 10:00 AM the chat is discussing React state management and weekend plans. 😭
 
 Community Radar helps surface the moments that matter.
+<img width="657" height="828" alt="Screenshot 2026-06-30 124805" src="https://github.com/user-attachments/assets/2df85aea-a2ed-46c9-b2c5-d646fb6a4932" />
+
 
 ---
 
